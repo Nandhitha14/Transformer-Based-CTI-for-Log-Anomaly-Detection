@@ -1,0 +1,17 @@
+[theme]
+base="light"
+
+# Buttons, sliders, highlights
+primaryColor="#1D4ED8"        # Stronger blue (more contrast)
+
+# Main background
+backgroundColor="#FFFFFF"    # Clean white
+
+# Cards, tables, sidebar background
+secondaryBackgroundColor="#E5E7EB"  # Slightly darker for separation
+
+# Main text color
+textColor="#0F172A"          # Dark navy (better readability than pure black)
+
+# Font
+font="sans serif"
